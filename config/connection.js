@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-    process.env.MONGODB_URI || "mongodb://localhost:27017/social-network",
+    process.env.MONGODB_URI || "mongodb+srv://valopezs:VKocrnhgf73hjfb@cluster0.qbjb861.mongodb.net/?retryWrites=true&w=majority",
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
