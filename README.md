@@ -24,11 +24,7 @@ Start the application from the command line:
 
 ## Walkthrough Video
 
-[manifest.json file](/images/manifest.json%20file.jpg)
-
-[Service Worker](/images/service%20workers.jpg)
-
-[IndexedDB Storage](/images/indexedDb%20storage.jpg)
+[Walkthrough Videos](https://drive.google.com/drive/folders/1mz4fLnGSjX4ghKYNP7g_PRBJXVqPBEM8?usp=sharing)
 
 ## Contributing
 Contributors should clone the repository and modify code. 
